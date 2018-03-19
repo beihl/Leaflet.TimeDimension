@@ -25,6 +25,7 @@
       "url": "https://github.com/ram-one"
     }
   ],
+  "main": "dist/leaflet.timedimension.min.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/socib/Leaflet.TimeDimension.git"
