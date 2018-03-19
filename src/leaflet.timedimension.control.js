@@ -11,7 +11,7 @@ L.UI.Knob = L.Draggable.extend({
         className: 'knob',
         step: 1,
         rangeMin: 0,
-        rangeMax: 10
+        rangeMax: 30
             //minValue : null,
             //maxValue : null
     },
